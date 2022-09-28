@@ -1,0 +1,31 @@
+{
+  "name": "zte-mf286c-api-attempt",
+  "version": "1.0.0",
+  "description": "An attempt to make an api for ZTE MF286C",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sacsbrainz/zte-mf286c-api-attempt.git"
+  },
+  "keywords": [
+    "zte",
+    "mf28c",
+    "api"
+  ],
+  "author": "sacsbrainz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sacsbrainz/zte-mf286c-api-attempt/issues"
+  },
+  "homepage": "https://github.com/sacsbrainz/zte-mf286c-api-attempt#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "axios-cookiejar-support": "^4.0.3",
+    "jsencrypt": "^3.2.1",
+    "qs": "^6.11.0",
+    "tough-cookie": "^4.1.2"
+  }
+}
